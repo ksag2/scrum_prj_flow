@@ -43,7 +43,7 @@ flowchart TD
     node_30 --> node_34
     node_31 --> node_34
     node_34 --> node_35
-    node_34 --> node_36
+    node_35 --> node_36
     node_34 --> node_37
     node_35 --> node_38
     node_35 --> node_39
